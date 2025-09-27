@@ -25,10 +25,10 @@
 ## 🔄 송출 / 수신 시스템 흐름
 
 ### 송신 (방송자 → 서버)
-![송신 흐름](docs/images/image1.png)
+![송신 흐름](front/docs/images/image1.png)
 
 ### 수신 (서버 → 시청자)
-![수신 흐름](docs/images/image2.png)
+![수신 흐름](front/docs/images/image2.png)
 
 ---
 
